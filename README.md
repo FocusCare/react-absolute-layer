@@ -1,5 +1,5 @@
 # Target
-- Make a layer solution of an react app
+- Make a layer solution of a react app
 
 # Component Tree
 ![](./component-tree.jpg)
